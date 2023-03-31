@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	clrscr();
+	printf("\t\t\t\t\t-\t-\t-\t\n");
+	printf("\t\t\t:\t\t\t\t:\n\n");
+	printf("\t\t\t:\t\t\t\t:\n\n");
+	printf("\t\t\t:\t\t\t\t:\n\n");
+	printf("\t\t\t:\t\t\t\t:\n\n");
+	printf("\t\t\tF\t\t\t\t:\n\n");
+	printf("\t\t\tE\t\t\t\t:\n\n");
+	printf("\t\t\tN\t\t\t\t:\n\n");
+	printf("\t\t\tI\t\t\t\t:\n\n");
+	printf("\t\t\tL\t\t\t\t:\n\n");
+	printf("\t\t\t:\t\t\t\t:\n\n");
+	printf("\t\t\t:\t\t\t\t:\n\n");
+	printf("\t\t\t:\t\t\t\t:\n\n");
+	printf("\t\t\t:\t\t\t\t:\n\n");
+	getch();
+}
